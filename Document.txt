@@ -1,0 +1,9 @@
+//2. Android Studio First Look//
+1. Section Goals!
+2. 32 bit operating system or 64 bit operating system
+3. Download and Install the Java Development Kit on your computer
+4. Download and Install Android Studio
+5. Download Android Studio Canary Version
+5.1 HelloAndHiWorld.zip
+6. Android Studio First Look - Let's get Started!
+1.12
